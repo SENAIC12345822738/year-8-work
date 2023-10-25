@@ -1,0 +1,5 @@
+GraphicsWindow.PenColor ="black"
+GraphicsWindow.PenWidth = 3
+GraphicsWindow.DrawRectangle(70,60,100,150)
+GraphicsWindow.FillRectangle(70,60,100,150)
+GraphicsWindow.BrushColor = "red"
